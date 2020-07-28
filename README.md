@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="0xPwn3r'1337" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <img height="50" alt="xx" src="https://raw.githubusercontent.com/sZBRH/sZBRH/master/.img/note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,6 @@
 <table width="100%">
 <tr>
 <td align="center">
-<strong>J'ai pas de site :|</strong>
 <br />
 <br />
 
@@ -31,7 +30,6 @@
 </td>
 <td align="center">
 <br />
-<strong>J'ai pas de livre :|</strong>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
